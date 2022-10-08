@@ -1,0 +1,31 @@
+1ST METHOD :-
+
+
+Step 1 :- Start
+Step 2 :- Read a , b
+Step 3 :- if a>b then
+           Begin
+             print " a is greater "
+           End
+          
+          else 
+           Begin
+             print " b is greater "
+           End
+Step 4 :- Stop
+_____________________________________________
+
+2ND METHOD :-
+
+
+Step 1 :- Start
+Step 2 :- Read a,b
+Step 3 :- big = a
+Step 4 :- if b > big then
+           Begin
+             big = b
+           End
+Step 5 :- print big
+Step 6 :- Stop
+
+_______________________________________________
