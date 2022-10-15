@@ -1,0 +1,39 @@
+Step 1 :- Start
+Step 2 :- Read a,b,c,d,e
+Step 3 :- percentage = (a+b+c+d+e)/5
+Step 4 :- if percentage > 90 then
+          Begin
+            print " A+ Grade "
+          End
+          
+          if percentage > 80 then
+          Begin
+            print " A Grade "
+          End
+          
+          if percentage > 70 then
+          Begin
+            print " B Grade "
+          End
+          
+          if percentage > 60 then
+          Begin
+            print " C Grade "
+          End
+          
+          if percentage > 50 then
+          Begin
+            print " D Grade "
+          End
+          
+          if percentage > 40 then
+          Begin
+            print " E Grade "
+          End
+          
+          else
+          Begin
+            print " Fail "
+          End
+          
+Step 6 :- Stop
